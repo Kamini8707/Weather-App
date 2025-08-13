@@ -3,7 +3,8 @@ import React, { useState } from "react";
 
 const Weather = () => {
 
-    const api_key = "65a30ba1cbea75dde837c28645ee99c1";
+    const apiKey = import.meta.env.VITE_WEATHER_API_KEY;
+
     
     const [city, setCity] =  useState("");
     const [weatherdata, setWeatherData] = useState(null);
@@ -12,7 +13,7 @@ const Weather = () => {
    async function handleWeather(){
         try {
             setError("");
-            const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${api_key}&units=metric`);
+            const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`);
 
             if(!response.ok) throw new Error("City Not Found..");
             const livedata = await response.json();
