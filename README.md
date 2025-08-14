@@ -5,8 +5,8 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 ---
 
 ## 📹 Demo
-
 [![Watch the demo](https://weather-app-three-beta-12.vercel.app)
+
 ---
 
 ## ✨ Features
@@ -26,7 +26,7 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 
 ---
 
-## 📸 Demo
+## 📸 Screenshot
 [![Weather App Demo](public/Screenshot.png)](public/demo.mp4)
 
 ---
