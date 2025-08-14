@@ -30,6 +30,10 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 ![Weather App Screenshot](public/weather.jpg)
 
 ---
+## 📹 Demo
+
+![Weather App Demo](public/demo.mp4)
+---
 
 ## ⚡ Getting Started
 
