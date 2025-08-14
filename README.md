@@ -6,7 +6,8 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 
 
 ## 🚀 Live Demo
-🔗 [View Weather App on Vercel](https://your-vercel-deployment-url.vercel.app/)
+🔗 [View Weather App on Vercel](https://weather-app-three-beta-12.vercel.app)
+
 
 
 
