@@ -51,7 +51,11 @@ npm install
 ```
 ---
 
+Now open your browser and go to http://localhost:5173 to view the app.
+
 
 ### 3️⃣ Run the development server
+```bash
 npm run dev
+```
 
