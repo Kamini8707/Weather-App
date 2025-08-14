@@ -42,8 +42,10 @@ cd weather-app
 
 
 ---
+---
 
-
-### 2️⃣ **Install dependencies**
+### 2️⃣ Install dependencies
 ```bash
 npm install
+---
+
