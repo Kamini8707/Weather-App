@@ -37,17 +37,18 @@ Follow these steps to run the project locally:
 
 
 ### 1️⃣ Clone the repository
-```bash```
+```bash
 git clone https://github.com/your-username/weather-app.git
 cd weather-app 
-
+ ```
 
 ---
 
 
 ### 2️⃣ Install dependencies
-
+```bash
 npm install
+```
 ---
 
 
