@@ -42,13 +42,7 @@ cd weather-app
 
 ---
 
-###2️⃣ Install dependencies
-```bash
-npm install
+22️⃣ Install dependencies
 
----
 
-###3️⃣ Start the development server
-```bash
-npm run dev
 
