@@ -6,7 +6,7 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 
 ## 📹 Demo
 
-[![Watch the demo](public/Screenshot.png)](https://github.com/Kamini8707/Weather-App/blob/main/public/demo.mp4)
+[![Watch the demo](public/Screenshot.png)]
 ---
 
 ## ✨ Features
