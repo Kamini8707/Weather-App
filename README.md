@@ -37,9 +37,9 @@ Follow these steps to run the project locally:
 
 
 ### 1️⃣ Clone the repository
-
+```bash```
 git clone https://github.com/your-username/weather-app.git
-cd weather-app
+cd weather-app 
 
 
 ---
@@ -51,6 +51,6 @@ npm install
 ---
 
 
-3️⃣ Run the development server
-bash
+### 3️⃣ Run the development server
 npm run dev
+
