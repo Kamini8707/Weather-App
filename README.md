@@ -26,13 +26,9 @@ A modern, responsive weather application built with **React**, **Vite**, and **T
 
 ---
 
-## 📸 Screenshot
-![Weather App Screenshot](public/weather.jpg)
+## 📸 Demo
+[![Weather App Demo](public/Screenshot.png)](public/demo.mp4)
 
----
-## 📹 Demo
-
-![Weather App Demo](public/demo.mp4)
 ---
 
 ## ⚡ Getting Started
