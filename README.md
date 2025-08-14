@@ -50,3 +50,7 @@ cd weather-app
 npm install
 ---
 
+
+3️⃣ Run the development server
+bash
+npm run dev
