@@ -41,4 +41,4 @@ git clone https://github.com/your-username/weather-app.git
 cd weather-app
 
 
-2️⃣ Install dependencies
+### 2️⃣ Install dependencies
