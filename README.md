@@ -61,3 +61,19 @@ npm run dev
 
 Now open your browser and go to http://localhost:5173 to view the app.
 
+
+📄 License
+
+This project is licensed under the MIT License — feel free to use and modify it.
+```bash
+
+This version:  
+✅ Has all steps properly formatted.  
+✅ Uses clear section titles with emojis.  
+✅ Includes **Step 3** to run the app.  
+✅ Will look clean and professional on GitHub.  
+
+I can also make it **even more eye-catching** with shields.io badges for React, Vite, Tailwind, and API if you want.
+
+```
+
